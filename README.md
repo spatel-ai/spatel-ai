@@ -24,25 +24,25 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
        <a 
-          href="https://linkedin.com/in/imshubhampatel" 
+          href="https://linkedin.com/in/spatel-ai" 
           target="blank"
        >
               <img 
                  align="center"
                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg"
-                 alt="imshubhampatel" 
+                 alt="spatel-ai" 
                  height="40" 
                  width="40"
               />
        </a>
            &nbsp; &nbsp;
-<a href="https://instagram.com/me_s.mile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imshubhampatel" height="40" width="40" /></a>
+<a href="https://instagram.com/me_s.mile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="spatel-ai" height="40" width="40" /></a>
  &nbsp;    &nbsp;
-<a href="https://twitter.com/bbshubhampatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="imshubhampatel" height="30" width="40" /></a>
+<a href="https://twitter.com/bbshubhampatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="spatel-ai" height="30" width="40" /></a>
  &nbsp;    &nbsp;
-<a href="https://www.leetcode.com/spatel_ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="imshubhampatel" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/spatel-ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="spatel-ai" height="40" width="40" /></a>
     &nbsp;    &nbsp;
-<a href="https://www.geeksforgeeks.org/user/imshubhampatel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="imshubhampatel" height="50" width="50" /></a>
+<a href="https://www.geeksforgeeks.org/user/spatel-ai/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="spatel-ai" height="50" width="50" /></a>
  &nbsp;    &nbsp;
 </p>
 
@@ -525,11 +525,11 @@
 
 <div width="100%" align="left">
 <span align="left">
-<a href="http://www.github.com/imshubhampatel"><img src="https://github-readme-stats.vercel.app/api?username=imshubhampatel&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=212830&hide_border=true&show_icons=true" alt="imshubhampatel's GitHub stats" width="46%"/></a>
+<a href="http://www.github.com/spatel-ai"><img src="https://github-readme-stats.vercel.app/api?username=spatel-ai&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=212830&hide_border=true&show_icons=true" alt="spatel-ai's GitHub stats" width="46%"/></a>
 </span>
 &nbsp;&nbsp;&nbsp;
 <span  align="right">
-<a href="http://www.github.com/imshubhampatel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imshubhampatel&stroke=ffffff&background=transparent&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="51%" /></a>
+<a href="http://www.github.com/spatel-ai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=spatel-ai&stroke=ffffff&background=transparent&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="51%" /></a>
 </span>
 
 </div>
@@ -540,11 +540,11 @@
 
 <div>&nbsp;</div>
 
-<a align="left" href="https://github.com/imshubhampatel">
-       <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhampatel&langs_count=6&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=212830&hide_border=true&locale=en&custom_title=Top%206%20Languages" alt="Top Languages" />
+<a align="left" href="https://github.com/spatel-ai">
+       <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spatel-ai&langs_count=6&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=212830&hide_border=true&locale=en&custom_title=Top%206%20Languages" alt="Top Languages" />
 </a>
-       <a align="right" href="https://github.com/imshubhampatel">
-              <img align="right" width="58%" src="https://raw.githubusercontent.com/imshubhampatel/imshubhampatel/main/leetcode_activity.svg" />
+       <a align="right" href="https://github.com/spatel-ai">
+              <img align="right" width="58%" src="https://raw.githubusercontent.com/spatel-ai/spatel-ai/main/leetcode_activity.svg" />
        </a>
        
 </div>
@@ -555,18 +555,18 @@
 <h3 align="left"><b>Top Repositories</b></h3>
 <div>&nbsp;</div>
 <div align="left" style="width: '100%'; border: '1px solid red'">
-       <a href="https://github.com/imshubhampatel/Movies-web" align="left">
+       <a href="https://github.com/spatel-ai/Movies-web" align="left">
               <img 
                      align="left" 
                      width="40%"
-                     src="https://github-readme-stats.vercel.app/api/pin/?username=imshubhampatel&repo=Movies-web&description=Movies-web&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=212830&hide_border=true&locale=en"
+                     src="https://github-readme-stats.vercel.app/api/pin/?username=spatel-ai&repo=Movies-web&description=Movies-web&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=212830&hide_border=true&locale=en"
               />
        </a>
-       <a href="https://github.com/imshubhampatel/bucketvio" align="right">
+       <a href="https://github.com/spatel-ai/bucketvio" align="right">
               <img 
                      align="right"
                      width='40%'
-                     src="https://github-readme-stats.vercel.app/api/pin/?username=imshubhampatel&repo=bucketvio&description=bucketvio&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=212830&hide_border=true&locale=en" 
+                     src="https://github-readme-stats.vercel.app/api/pin/?username=spatel-ai&repo=bucketvio&description=bucketvio&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=212830&hide_border=true&locale=en" 
               />
        </a>
 </div>

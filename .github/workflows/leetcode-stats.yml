@@ -36,4 +36,4 @@ jobs:
         git config --local user.name "spatel-ai"
         git add .
         git commit -m "Update LeetCode stats"
-        git push https://$GITHUB_TOKEN@github.com/imshubhampatel/imshubhampatel.git HEAD:main
+        git push https://$GITHUB_TOKEN@github.com/spatel-ai/spatel-ai.git HEAD:main

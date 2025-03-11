@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript, Python, DSA &* Development**
 
-- 📫 How to reach me **s.ptel@gmail.com**
+- 📫 How to reach me **sptel.ai@gmail.com**
 
 - 📄 Know about my experiences [Please have a look](https://drive.google.com/file/d/1EW84vfmbW0HymM3n9chXXuqIgyu47jci/view?usp=sharing)
 <h3 align="left">About me:</h3>

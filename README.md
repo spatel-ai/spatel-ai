@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shubham Patel</h1>
-<h3 align="center">A passionate computer science engineering, pre-final year student of BTIRT Sagar</h3>
 
 - 🔭 I’m currently working at **Ataloud Technologies**
 

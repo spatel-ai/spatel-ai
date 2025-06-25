@@ -542,9 +542,6 @@
 <a align="left" href="https://github.com/spatel-ai">
        <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spatel-ai&langs_count=6&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=212830&hide_border=true&locale=en&custom_title=Top%206%20Languages" alt="Top Languages" />
 </a>
-       <a align="right" href="https://github.com/spatel-ai">
-              <img align="right" width="58%" src="https://raw.githubusercontent.com/spatel-ai/spatel-ai/main/leetcode_activity.svg" />
-       </a>
        
 </div>
 

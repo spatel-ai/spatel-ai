@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sptel.ai@gmail.com**
 
-- 📄 Know about my experiences [👀](https://drive.google.com/file/d/1nfPHTLkqI_zpzpu-YYPQa5W5MY-4W6DZ/view?usp=sharing)
+- 📄 Know about my experiences [👀](https://drive.google.com/file/d/15HwSl9vRBwBnIatpUMWmYwZhe-WBvhZ1/view?usp=sharing)
 <h3 align="left">About me:</h3>
 <p>As a dedicated <strong>Full Stack Developer</strong> with a focus on both <strong>Backend</strong> and <strong>Frontend</strong> development, I bring a wealth of experience in building scalable and efficient software solutions. I have successfully designed and implemented backend services in <strong>Django</strong> and <strong>Spring Boot</strong>, leveraging technologies such as <strong>Red Hat Ansible</strong> , <strong>Boto3</strong>, and <strong>Kubernetes</strong> to ensure <strong>HA (High Availability)</strong> and seamless deployment. My expertise also includes integrating <strong>Caching Mechanisms</strong> and real-time features using <strong>Redis</strong> and <strong>WebSockets</strong>.</p>
 
